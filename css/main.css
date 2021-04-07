@@ -13,11 +13,11 @@ nav ul li, footer ul li {
     margin-right: 20px;
 }
 a {
-    text-decoration: overline;
+    text-decoration: none;
     color: #999;
 }
 a:hover {
-    text-decoration: underline;
+    text-decoration:  underline overline wavy blue;
 }
 h1 {
     font-size: 3em;
